@@ -1,1 +1,1 @@
-meili
+# meilisearch-template
